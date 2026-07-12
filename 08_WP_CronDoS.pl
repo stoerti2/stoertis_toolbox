@@ -1,4 +1,61 @@
 #!/usr/bin/perl
+#┌────────────────────────────────────────────────────────────────────────┐
+#│                                                                        │
+#│         ███████╗████████╗ ██████╗ ███████╗██████╗ ████████╗██╗         │
+#│         ██╔════╝╚══██╔══╝██╔═══██╗██╔════╝██╔══██╗╚══██╔══╝██║         │
+#│         ███████╗   ██║   ██║   ██║█████╗  ██████╔╝   ██║   ██║         │
+#│         ╚════██║   ██║   ██║   ██║██╔══╝  ██╔══██╗   ██║   ██║         │
+#│         ███████║   ██║   ╚██████╔╝███████╗██║  ██║   ██║   ██║         │
+#│         ╚══════╝   ╚═╝    ╚═════╝ ╚══════╝╚═╝  ╚═╝   ╚═╝   ╚═╝         │
+#│                                                                        │
+#│                    "old school, still root"                            │
+#│                    "stoerti - the jobless hacker"                      │
+#│                                                                        │
+#│    ┌──────────────────────────────────────────────────────────────┐    │
+#│    │  40 years in the trenches.     │  6 months unemployed in DE. │    │
+#│    │  They fired the one who knew.  │  This is my legacy.         │    │
+#│    │                   -- no patches for reality --               │    │
+#│    └──────────────────────────────────────────────────────────────┘    │
+#│                                                                        │
+#└────────────────────────────────────────────────────────────────────────┘
+# MIT License
+#
+# Copyright (c) 2026 Klaus Baumdick
+#
+# Permission is hereby granted, free of charge, to any person obtaining a copy
+# of this software and associated documentation files (the "Software"), to deal
+# in the Software without restriction, including without limitation the rights
+# to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+# copies of the Software, and to permit persons to whom the Software is
+# furnished to do so, subject to the following conditions:
+#
+# The above copyright notice and this permission notice shall be included in all
+# copies or substantial portions of the Software.
+#
+# THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+# IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+# FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+# AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+# LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+# OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+# SOFTWARE.
+
+# ============================================================================
+# DISCLAIMER
+# ============================================================================
+#
+# This script is intended solely for educational purposes and authorized
+# penetration testing in controlled environments.
+#
+# Unauthorized use of this script against systems without explicit written
+# permission is illegal and may result in criminal or civil liability.
+#
+# The author assumes no responsibility for any misuse, damages, or legal
+# consequences arising from the use of this script.
+#
+# USE AT YOUR OWN RISK.
+# ============================================================================
+
 use strict;
 use warnings;
 use LWP::UserAgent;
