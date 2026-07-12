@@ -78,19 +78,6 @@ use Getopt::Long;         # Für Kommandozeilenoptionen
 # Version:       2.0
 # =====================================================================================================================
 # Dieses Script darf NUR für Bildungszwecke verwendet werden!
-#
-# Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
-# International License (CC BY-NC-ND 4.0)
-#
-# Du darfst:
-# - Das Werk teilen, kopieren und weitergeben
-#
-# Unter folgenden Bedingungen:
-# - Namensnennung: Du musst den Autor (Klaus Baumdick/stoerti) nennen
-# - Nicht kommerziell: Keine kommerzielle Nutzung erlaubt
-# - Keine Bearbeitung: Keine Veränderungen erlaubt
-#
-# Vollständige Lizenz: https://creativecommons.org/licenses/by-nc-nd/4.0/
 # =====================================================================================================================
 # Einfacher Start
 # ./# Einfacher Start
